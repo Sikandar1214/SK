@@ -50,6 +50,11 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
+## 🚀 Live Demo 
+
+<a href="https://sikandar1214.github.io/SK/" target="_blank">Live Demo</a>
+
+
 ## Getting Started
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
